@@ -11,11 +11,11 @@ This project contains API endpoints, database design for booking cab (initial fe
 
 # Technology Used as follows -
 
-Programming Language - Java 8
-Framework - Spring Boot
-Database - Cassandra
-API Documentation - Swagger
-Other Libraries - Lombok to reduce boilerplate code.
+1. Programming Language - Java 8.
+2. Framework - Spring Boot.
+3. Database - Cassandra.
+4. API Documentation - Swagger.
+5. Other Libraries - Lombok to reduce boilerplate code.
 
 # Database Schema - 
 
