@@ -95,7 +95,8 @@ insert into carbooking.user_info ( uid , email , fname , lname , gender, phone )
 insert into carbooking.price_calculator (source , destination , distance , regular_price ) VALUES ('koramangala', 'indranagara', 7, 60 );
 insert into carbooking.price_calculator (source , destination , distance , regular_price ) VALUES ('indranagara', 'mg_road', 8, 90 );
 
-# visit swagger url which contains API documentation 
+# visit swagger url which contains API documentation
+(Attached sample html page for reference)
 url - http://localhost:8080/swagger-ui.html - where 8080 is the port where the application is running.
 
 # Attached postman test file for reference.
